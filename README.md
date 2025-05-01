@@ -2,6 +2,7 @@
 
 Software Engineer specializing in backend development, system integration, and AI solutions. Currently based in Vancouver, Canada.
 
+
 ## 🚀 About Me
 
 I'm passionate about building scalable applications and integrating systems that solve real business problems. With 6+ years of experience in software engineering, I've worked on a range of projects from enterprise product management systems to event planning platforms with AI features.
